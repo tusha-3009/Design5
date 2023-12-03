@@ -1,0 +1,30 @@
+.leftPanel{
+    display: flex;
+flex-direction: column;
+gap:30px;
+margin: 20px;
+}
+.logo{
+    width: 160px;
+    height: 80px;
+}
+.heading{
+    font-weight:  200;
+    font-size: 64px; 
+ 
+}
+.subHeading{
+    font-size: 24px;
+    font-weight: 400;
+}
+.clickHere{
+    font-size: 18px;
+        font-weight: 400;
+ 
+}
+.blue{
+color: #3F96D1;
+}
+.red{
+   color: #DD4933;
+}
